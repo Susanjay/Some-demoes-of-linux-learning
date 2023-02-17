@@ -1,0 +1,2 @@
+# Some-demoes-of-linux-learning
+学习Linux系统编程中的一些demo积累，从进程间通信进行开始积累，后续会更新完整个Linux学习过程中用到的demo，如果有兴趣的小伙伴欢迎下载或者补充更好的demo。
